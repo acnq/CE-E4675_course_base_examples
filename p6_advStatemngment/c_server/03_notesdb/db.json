@@ -1,0 +1,19 @@
+{
+  "notes": [
+    {
+      "content": "the app sate is in redux store",
+      "important": true,
+      "id": "1"
+    },
+    {
+      "content": "state changes are made with actions",
+      "important": false,
+      "id": "2"
+    },
+    {
+      "id": "e87d",
+      "content": "dfafadf",
+      "important": false
+    }
+  ]
+}
